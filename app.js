@@ -50,7 +50,6 @@ app.use(() => {
 
 app.use(errors());
 app.use((err, req, res, next) => {
-  // eslint-disable-next-line no-console
   console.log(err);
   const { statusCode = 500, message } = err;
 
