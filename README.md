@@ -1,4 +1,3 @@
-[![Tests](../../actions/workflows/tests-13-sprint.yml/badge.svg)](../../actions/workflows/tests-13-sprint.yml) [![Tests](../../actions/workflows/tests-14-sprint.yml/badge.svg)](../../actions/workflows/tests-14-sprint.yml)
 # Учебный проект: Место фронтенд + бэкенд
 
 
@@ -12,4 +11,4 @@
 
 **Сайт**
 
-* [Ссылка на сайт](https://antonromanetc.github.io/mesto-react/index.html)
+* [Ссылка на сайт](https://github.com/AntonRomanetc/express-mesto-gha)
